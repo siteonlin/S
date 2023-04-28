@@ -1106,13 +1106,15 @@ a {
     left: -1rem;
   }
 }
-.cid-tCDokl6SoY {
+.cid-tCKQi4f2QV {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-image: url("../../../assets/images/pexels-caleb-oquendo-14364626-2000x1333.jpg");
 }
-.cid-tCDokl6SoY .mbr-fallback-image.disabled {
+.cid-tCKQi4f2QV .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tCDokl6SoY .mbr-fallback-image {
+.cid-tCKQi4f2QV .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1121,19 +1123,26 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tCDokl6SoY .mbr-section-title {
+.cid-tCKQi4f2QV .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-tCKQi4f2QV .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 70%;
+  }
+}
+.cid-tCKQi4f2QV .mbr-section-title {
   color: #ffffff;
 }
-.cid-tCDokl6SoY .mbr-section-subtitle {
-  color: #00ff72;
-}
-.cid-tCDokl6SoY .mbr-text,
-.cid-tCDokl6SoY .mbr-section-btn {
+.cid-tCKQi4f2QV .mbr-text,
+.cid-tCKQi4f2QV .mbr-section-btn {
   color: #ffffff;
 }
 .cid-tCDpyV36pr {
-  padding-top: 0rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
   background-color: #000000;
 }
 .cid-tCDpyV36pr .mbr-fallback-image.disabled {
@@ -1198,7 +1207,7 @@ a {
 .cid-tCDkcQC7dN {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 .cid-tCDkcQC7dN .mbr-fallback-image.disabled {
   display: none;
@@ -1501,7 +1510,7 @@ a {
 }
 .cid-tCKJo627Pr {
   padding-top: 1rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
   background-color: #ee0e0e;
 }
 .cid-tCKJo627Pr .mbr-fallback-image.disabled {
@@ -1518,7 +1527,7 @@ a {
 }
 .cid-tCDnoegLLN {
   padding-top: 1rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
   background-color: #14cc66;
 }
 .cid-tCDnoegLLN .mbr-fallback-image.disabled {
