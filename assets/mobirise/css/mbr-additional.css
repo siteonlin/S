@@ -21,12 +21,12 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'Roboto', sans-serif;
-  font-size: 1.1rem;
+  font-family: 'Kanit', sans-serif;
+  font-size: 1.6rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.375rem;
+  font-size: 2rem;
 }
 .display-5 {
   font-family: 'Roboto', sans-serif;
@@ -66,9 +66,9 @@ body {
     line-height: calc( 1.3 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.88rem;
-    font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.28rem;
+    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.6rem;
@@ -593,13 +593,13 @@ a:hover {
   border-radius: 100px;
 }
 .form-control {
-  font-family: 'Roboto', sans-serif;
-  font-size: 1.1rem;
+  font-family: 'Kanit', sans-serif;
+  font-size: 1.6rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.375rem;
+  font-size: 2rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -607,13 +607,13 @@ a:hover {
   border-color: #00ff72 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Roboto', sans-serif;
-  font-size: 1.1rem;
+  font-family: 'Kanit', sans-serif;
+  font-size: 1.6rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1.375rem;
+  font-size: 2rem;
 }
 blockquote {
   border-color: #00ff72;
@@ -1107,7 +1107,7 @@ a {
   }
 }
 .cid-tCKQi4f2QV {
-  padding-top: 6rem;
+  padding-top: 9rem;
   padding-bottom: 6rem;
   background-image: url("../../../assets/images/pexels-caleb-oquendo-14364626-2000x1333.jpg");
 }
